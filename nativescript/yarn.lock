@@ -73,13 +73,13 @@
     magic-string "^0.19.0"
     source-map "^0.5.6"
 
-"@ngx-translate/core@^6.0.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@ngx-translate/core/-/core-6.0.1.tgz#7c7a80077feb994fc815b67a72065af04d394efe"
+"@ngx-translate/core@~7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@ngx-translate/core/-/core-7.0.0.tgz#5b6f63bd4042164d44cd85f68703af96e9392e7d"
 
-"@ngx-translate/http-loader@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@ngx-translate/http-loader/-/http-loader-0.0.3.tgz#8346c8d2d6f630254601029668f17abe2afe8a9b"
+"@ngx-translate/http-loader@~0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@ngx-translate/http-loader/-/http-loader-0.1.0.tgz#6029325561d7868fe325a419de2770e98ff1502e"
 
 "@types/jasmine@2.5.41":
   version "2.5.41"
@@ -150,9 +150,9 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
-angulartics2@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-2.2.1.tgz#07877930d4c57b73bfcbf8557a05133ebe995b30"
+angulartics2@^2.2.2:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-2.5.0.tgz#e5c5002119a068a6759438d59c6c692d48f168f6"
 
 ansi-regex@^2.0.0:
   version "2.0.0"
@@ -1910,9 +1910,9 @@ nan@^2.3.0, nan@^2.3.2:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.4.0.tgz#fb3c59d45fe4effe215f0b890f8adf6eb32d2232"
 
-nativescript-angular@~3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/nativescript-angular/-/nativescript-angular-3.0.0.tgz#401c5eae895c22a44010c16f443910d2aa5af6ee"
+nativescript-angular@~3.1.1:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/nativescript-angular/-/nativescript-angular-3.1.3.tgz#b7cc81df93c51e9178420c7c5d0cacd18eaddae7"
   dependencies:
     nativescript-intl "^3.0.0"
     reflect-metadata "^0.1.8"
@@ -2246,8 +2246,8 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 path-parse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-type@^1.0.0:
   version "1.1.0"
@@ -3129,15 +3129,15 @@ timers-browserify@^2.0.2:
   dependencies:
     setimmediate "^1.0.4"
 
-tns-core-modules-widgets@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-3.0.0.tgz#503c762819c936ce51e0b6025c776ae42a4500fb"
+tns-core-modules-widgets@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-3.1.1.tgz#336ebdd67955e889b918db2ecf2472feb57087e0"
 
-tns-core-modules@~3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-3.0.0.tgz#be0a538d3924a48320e9a875a1d351c664a3c9ab"
+tns-core-modules@~3.1.0:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-3.1.1.tgz#7b389c42dd6c10db2d1adfbc6c91031703e50dd5"
   dependencies:
-    tns-core-modules-widgets "3.0.0"
+    tns-core-modules-widgets "3.1.1"
 
 tns-platform-declarations@^3.0.1:
   version "3.0.1"
