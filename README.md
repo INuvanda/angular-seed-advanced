@@ -1,3 +1,5 @@
+**This Project is abandoned!**
+
 Please read [this notice first](https://github.com/NathanWalker/angular-seed-advanced/issues/474) before continuing.
 
 ![Angular Seed Advanced](https://cdn.filestackcontent.com/LSWpUEEGQiOdCpv9t6Ri?v=0)
